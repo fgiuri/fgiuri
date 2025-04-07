@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/Java-F8F8F8?style=flat&logo=java&logoColor=black" width="120" height="40"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="120" height="40"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white" width="120" height="40"/>
@@ -31,3 +32,4 @@
   <img src="https://img.shields.io/badge/ABB%20RobotStudio-FF3A00?style=flat&logo=robot&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" width="120" height="40"/>
 </div>
+
