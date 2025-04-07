@@ -1,5 +1,5 @@
 
-# Hi, I'm Francesco! 👨‍💻✨
+# Hi, I'm Francesco! 👨‍💻
 
 💼 **Graduate in Information Engineering**  
 💻 Posting some of my work here  
