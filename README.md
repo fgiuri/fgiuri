@@ -1,7 +1,7 @@
 
 # Hi, I'm Francesco! 👨‍💻
 
-💼 **Graduate in Information Engineering**  
+💼 **Graduate in Information Technology Engineering**  
 💻 Posting some of my work here  
 🔗 You can find me here: [LinkedIn](https://www.linkedin.com/in/francesco-giuri-946483358)
 
