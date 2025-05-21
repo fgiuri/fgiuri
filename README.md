@@ -31,5 +31,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=bash&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/ABB%20RobotStudio-FF3A00?style=flat&logo=robot&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" width="120" height="40"/>
 </div>
 
