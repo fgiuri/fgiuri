@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" style="height:40px; object-fit:contain;"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/ABB%20RobotStudio-FF3A00?style=flat&logo=robot&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" style="height:40px; object-fit:contain;"/>
