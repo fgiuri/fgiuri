@@ -33,4 +33,11 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" style="height:40px; object-fit:contain;"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat&logo=eclipsemosquitto&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" style="height:40px; object-fit:contain;"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" style="height:40px; object-fit:contain;"/>
 </div>
