@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/francesco-giuri-946483358">
   <img src="https://img.shields.io/badge/LinkedIn-Connettiamoci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-2ea44f?style=for-the-badge" alt="status"/>
 
 </div>
 
