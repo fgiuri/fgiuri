@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/francesco-giuri-946483358">
   <img src="https://img.shields.io/badge/LinkedIn-Connettiamoci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-2ea44f?style=for-the-badge" alt="status"/>
 
 </div>
 
@@ -86,8 +87,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fgiuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgiuri&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top langs"/>
 </p>
 
 <p align="center">
